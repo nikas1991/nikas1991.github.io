@@ -40,12 +40,14 @@ owner:
   job: "前端开发"
   bio: "行至水穷处，坐看云起时"
   email: mail@nikas.com
-  disqus-shortname:
+  disqus-shortname:nikas1991
   twitter: #username
-  facebook: #username
+  facebook: nikas1991
   google:
     plus: #username
-    analytics:
+    analytics:UA-37464148-2
+
+</script>
     verify:
     ad-client:
     ad-slot:
