@@ -11,7 +11,7 @@ description: nikas的个人博客
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-url: 
+url: http://nikas1991.github.io
 
 #
 ###################################
@@ -39,7 +39,7 @@ owner:
   avatar: avatar.jpg
   job: "前端开发"
   bio: "行至水穷处，坐看云起时"
-  email:mail@nikas.com
+  email: mail@nikas.com
   disqus-shortname:
   twitter: #username
   facebook: #username
