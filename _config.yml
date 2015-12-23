@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: 
-description: A simple and awesome blog theme powered by jekyll.
+title: Nikas
+email: mail@nikas.cn
+description: nikas的个人博客
 # the base hostname & protocol for your site
 # If your project is placed in https://github.com/yourname/yourname.github.io at master branch
 # Then, the 'url' is: http://yourname.github.io
@@ -35,11 +35,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Nikas
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-  email:
+  job: "前端开发"
+  bio: "行至水穷处，坐看云起时"
+  email:mail@nikas.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -50,7 +50,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: nikas1991
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
