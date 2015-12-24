@@ -12,4 +12,8 @@
   <link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+  <!-- IE8以下html5标签 -->
+  <!--[if lt IE9]> 
+  <script src="{{ site.url }}/js/html5shiv.min.js"></script>
+  <![endif]-->
 </head>
