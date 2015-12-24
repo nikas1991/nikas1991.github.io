@@ -3,3 +3,10 @@ _site
 .DS_Store
 _layouts/.DS_Store
 _posts/.DS_Store
+.jekyll
+.bundle
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+.idea
