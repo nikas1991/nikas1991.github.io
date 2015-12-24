@@ -9,7 +9,7 @@
   <span class="author_bio mbm">{{ author.bio }}</span>
   <nav class="nav">
     <ul class="nav-list">
-      {% for page in site.pages %} {% if page.title %}
+      {% for page in site.pages %} {% if page.tag %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %}
         <span>/</span>{% endunless %}
