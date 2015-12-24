@@ -7,7 +7,7 @@ author: nikas
 comments: true
 date:   2015-12-23 22:07:19
 modified: 2015-12-24
-<!-- pinned: true -->
+pinned: true
 image:
   feature: sample-image-2.jpg
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
