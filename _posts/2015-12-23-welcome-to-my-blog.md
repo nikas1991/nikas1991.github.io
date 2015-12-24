@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "我的博客!"
-date:   2015-12-23 22:07:19
+title:  "欢迎来到我的博客"
+tags: [博客]
+excerpt: "我的博客第一篇文章"
+author: nikas
 comments: true
+date:   2015-12-23 22:07:19
+modified: 2015-12-24
+<!-- pinned: true -->
+image:
+  feature: sample-image-2.jpg
+  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
+  credit: thomas shellberg
 ---
 
 
