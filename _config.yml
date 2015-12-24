@@ -40,7 +40,7 @@ owner:
   job: "前端开发"
   bio: "行至水穷处，坐看云起时"
   email: mail@nikas.com
-  disqus-shortname: #nikas1991
+  disqus-shortname: nikas1991
   twitter: #username
   facebook: nikas1991
   google:
@@ -49,9 +49,9 @@ owner:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
+  bing-verify: 
   github: nikas1991
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow:  #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
