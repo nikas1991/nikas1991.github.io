@@ -12,9 +12,11 @@ date:   2016-07-05 15:00:00
 
 对象的属性之间用逗号分隔，最后一个属性后面可以加逗号（trailing comma），也可以不加。
 
-''var o = {
+{% highlight ruby %}
+var o = {
   p: 123,
   m: function () { ... },
 }
+{% endhighlight %}
 
 上面的代码中m属性后面的那个逗号，有或没有都不算错。但是，ECMAScript 3不允许添加逗号，所以如果要兼容老式浏览器（比如IE 8），那就不能加这个逗号。

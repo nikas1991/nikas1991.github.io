@@ -19,7 +19,7 @@ url: http://www.nikas.cn
 ####################################
 #
 markdown:    kramdown
-highlighter:  pygments
+highlighter:  rouge
 excerpt_separator: <!--more-->
 
 kramdown:
